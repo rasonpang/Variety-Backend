@@ -17,3 +17,8 @@ bun run dev
 ```
 
 Open http://localhost:3000/ with your browser to see the result.
+
+TO DO LIST
+- Rename "models" to "form-inputs"
+- Create a "models" function
+- Controller to call Models function
